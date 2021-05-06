@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 body{
-  padding-left: 800px;
-  padding-right: 800px;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 header{
   font-family: 'Itim', cursive;
